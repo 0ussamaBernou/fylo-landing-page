@@ -29,7 +29,7 @@ Used flexbox for the footer columns, but that didn't work well, so i used grid t
 
 ## Lessons Learned:
 
-Learned to make a floating section between two sections haha
+Learned to make a floating section between two sections.
 
 ## Examples:
 
